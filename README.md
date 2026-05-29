@@ -86,5 +86,12 @@ Code
 chmod +x install_apps.sh
 ./install_apps.sh
 
-📸 Captures d’écran
+📸 Captures d’écran:
+
+## 📸 Captures d’écran
+
+<p align="center">
+  <img src="assets/screenshots/nixite1.png" width="45%">
+  <img src="assets/screenshots/nixite2.png" width="45%">
+</p>
 
