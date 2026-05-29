@@ -82,8 +82,6 @@ Compatible Ubuntu, Debian, Mint, Arch, Manjaro, Fedora, openSUSE, Solus, Void Li
 
     Exécutez :
 
-Code
-
 chmod +x install_apps.sh
 ./install_apps.sh
 
