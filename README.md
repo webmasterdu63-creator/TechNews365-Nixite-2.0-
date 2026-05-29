@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="banniere.png" width="800">
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Nixite-2.0-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Status-Stable-brightgreen?style=for-the-badge">
   <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge">
