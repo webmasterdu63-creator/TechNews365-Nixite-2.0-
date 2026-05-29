@@ -19,6 +19,11 @@
   <img src="https://img.shields.io/badge/Web-HTML/CSS-blueviolet?style=flat-square">
   <img src="https://img.shields.io/badge/Generator-Auto_Script-green?style=flat-square">
 </p>
+<p align="center">
+  <a href="https://technews365.fr/nixite2/">
+    🔗 Page officielle TechNews365 Nixite 2.0
+  </a>
+</p>
 
 🚀 Présentation
 
