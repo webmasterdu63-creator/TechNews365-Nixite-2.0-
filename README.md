@@ -28,6 +28,7 @@ Nixite 2.0 est un installateur d’applications Linux universel, conçu pour les
 Sélectionnez vos apps → cliquez → un script d’installation est généré automatiquement.
 
 Compatible Ubuntu, Debian, Mint, Arch, Manjaro, Fedora, openSUSE, Solus, Void Linux, etc.
+
 ✨ Fonctionnalités
 
     Interface moderne, simple et intuitive
