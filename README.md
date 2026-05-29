@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="assets/banners/banniére.png" width="800">
+  <img src="assets/banners/banniere.png" width="800">
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Nixite-2.0-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Status-Stable-brightgreen?style=for-the-badge">
