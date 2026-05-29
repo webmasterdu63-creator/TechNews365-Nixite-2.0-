@@ -88,7 +88,7 @@ chmod +x install_apps.sh
 ./install_apps.sh
 
 
-## 📸 Captures d’écran
+
 <h2 align="center">📸 Captures d’écran</h2>
 
 <p align="center">
